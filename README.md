@@ -10,3 +10,8 @@ Activity 1:
 Activity 2:
 
 <img width="175" alt="image" src="https://user-images.githubusercontent.com/29826854/192868697-dccbaa19-e281-4bd3-a39e-95d1d4fcf7a7.png">
+
+
+Activity 3: 
+
+<img width="331" alt="image" src="https://user-images.githubusercontent.com/29826854/192875005-c9a3da84-accd-401e-93f8-6ddf3ba87fec.png">
